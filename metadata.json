@@ -1,6 +1,0 @@
-{
-  "name": "Private Jarvis AI",
-  "description": "A private, local-first AI assistant with chat, memory, and local inference capabilities.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
